@@ -6,3 +6,13 @@
 #############################
 
 # Write code here:
+print("Hello Teni")
+print("Hello")
+
+name = input("Please enter your name: ")
+print(f"Hello {name}")
+# print(name)
+
+num1 = 100
+num2 = 44
+print(num1 / num2)
